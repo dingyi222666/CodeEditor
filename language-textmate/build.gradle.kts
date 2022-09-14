@@ -54,7 +54,7 @@ dependencies {
     implementation("xerces:xercesImpl:${Versions.xercesImplVersion}")
 
     implementation("org.yaml:snakeyaml:1.31")
-    implementation("org.eclipse.jdt:org.eclipse.jdt.annotation:2.2.600")
+    implementation("org.eclipse.jdt:org.eclipse.jdt.annotation:2.2.700")
     implementation("com.google.guava:guava:31.1-android")
 
 
